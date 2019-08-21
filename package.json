@@ -1,0 +1,19 @@
+{
+  "name": "javascriptexercises",
+  "version": "1.0.0",
+  "description": "\"The JavaScriptPlayground\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "git repository:(https://github.com/brightlylit/javascriptexercises.git)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brightlylit/javascriptexercises.git"
+  },
+  "author": "Matt Steele",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brightlylit/javascriptexercises/issues"
+  },
+  "homepage": "https://github.com/brightlylit/javascriptexercises#readme"
+}
